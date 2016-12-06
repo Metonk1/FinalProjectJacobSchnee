@@ -1,0 +1,9 @@
+Notes
+
+so wit0h the Gui i need to figure out how to design this. 
+
+First i want to create the login and home page
+Now we need to break that down
+
+-could we have methods that activate buttons for us, i have seen it, but once i tried it, it didn't work, but may be this time it will
+-So well create login and a main page.
